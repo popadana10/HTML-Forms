@@ -1,0 +1,21 @@
+h1 {
+  color: olive;
+}
+
+div {
+  text-align: left;
+}
+
+.submit {
+  background-color: olive;
+  color: brown;
+  border: 2px solid green;
+  font-size: large;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+}
+
+.submit:hover {
+  color: blue;
+}
